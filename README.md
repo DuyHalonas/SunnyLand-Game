@@ -77,22 +77,7 @@ Mỗi map chứa câu đố, quái vật và vật phẩm cần khám phá để
 
 ---
 
-## 📚 Những điều học được
 
-- Làm việc nhóm và phân chia công việc hiệu quả
-- Triển khai quy trình phát triển game: từ thiết kế đến lập trình và kiểm thử
-- Sử dụng Unity hiệu quả trong xử lý scene, gameplay logic và tối ưu hiệu suất
-
----
-
-## 🔍 Hướng phát triển tương lai
-
-- Thêm các màn chơi mới với độ khó cao hơn
-- Mở rộng tính năng: vũ khí, vật phẩm, kỹ năng đặc biệt
-- Thêm chế độ nhiều người chơi (co-op hoặc đối kháng)
-- Chia sẻ thành tích qua mạng và bảng xếp hạng
-
----
 
 > 📌 Sunny Land không chỉ là một trò chơi, mà còn là hành trình học hỏi, thử nghiệm và hiện thực hóa đam mê làm game của nhóm phát triển.
 
