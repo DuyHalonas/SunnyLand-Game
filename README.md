@@ -98,9 +98,12 @@ Mỗi map chứa câu đố, quái vật và vật phẩm cần khám phá để
 
 ---
 
-## 📷 Screenshot (nếu có)
+## 📷 Screenshot 
+![image](https://github.com/user-attachments/assets/8976286b-2513-4a0e-81dd-cf8af609f77a)
+  ![image](https://github.com/user-attachments/assets/c3161c81-2926-4748-aa4e-c20d7c307906)
+![image](https://github.com/user-attachments/assets/f098d0e1-863d-4f61-8bc4-d49844c85871)
 
-> Bạn có thể thêm ảnh chụp màn hình game tại đây để minh họa đồ họa, gameplay, hoặc animation.
+
 
 ---
 
