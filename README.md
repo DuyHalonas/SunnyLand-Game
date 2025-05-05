@@ -6,7 +6,7 @@
 
 **Sunny Land** là một trò chơi điện tử hành động - phiêu lưu 2D được phát triển bằng Unity và ngôn ngữ lập trình C#. Trò chơi đưa người chơi vào vai **Alex**, một thợ săn kho báu tài ba, trong hành trình khám phá hòn đảo huyền bí đầy cạm bẫy, quái vật và những kho báu chưa được tìm thấy.
 
-Dự án được thực hiện bởi một nhóm sinh viên tại ABC Studios với mục tiêu xây dựng trải nghiệm game hấp dẫn, có chiều sâu về gameplay và thiết kế đồ họa sinh động.
+Dự án được thực hiện bởi một nhóm sinh viên tại Đại Học Văn Lang với mục tiêu xây dựng trải nghiệm game hấp dẫn, có chiều sâu về gameplay và thiết kế đồ họa sinh động.
 
 ---
 
@@ -64,7 +64,7 @@ Mỗi map chứa câu đố, quái vật và vật phẩm cần khám phá để
 | Họ tên               | MSSV          | Công việc                                                                            |
 | -------------------- | ------------- | ------------------------------------------------------------------------------------ |
 | Nguyễn Hữu Duy       | 2174801030135 | Di chuyển nhân vật, AI quái vật, va chạm, nhặt vật phẩm, chuyển scene, animation     |
-| Nguyễn Anh Minh Quân | 2174801030149 | Âm thanh toàn bộ game, menu chính, điều chỉnh âm lượng, Thiết kế Map, panel tạm dừng |
+| Nguyễn Anh Minh Quân | 2174801030149 | Âm thanh , menu chính, điều chỉnh âm lượng, Thiết kế Map, panel tạm dừng |
 
 ---
 
